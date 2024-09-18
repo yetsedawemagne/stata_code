@@ -3,5 +3,8 @@
 
 # The following is a stata code i used to append stata files
 
-append file1.dta using file2.dta
+
+# The followin link shows my work uisng stata 
+ 
+[Look at the following link](https://github.com/yetsedawemagne/stata_code/blob/main/Final%20chapter%20one%20do%20v2.do)
 
